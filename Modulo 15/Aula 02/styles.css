@@ -1,0 +1,14 @@
+/* Estilização personalizada para o site */
+
+/* Definindo a cor de fundo do cabeçalho */
+header {
+    background-color: #ddeff3;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Adicionando margem ao rodapé */
+footer {
+    margin-top: 20px;
+    background-color: #ddeff3;
+}
